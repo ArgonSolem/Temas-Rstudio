@@ -1,7 +1,8 @@
 # ---------------------------------------------------------------------------- #
 #                Temas de RStudio rescatados desde Github
 #
-#   Cada tema contempla su nombre, url de origen y codigo para su descarga
+#   Cada tema contempla su nombre, url de origen y codigo para su descarga 
+#
 # ---------------------------------------------------------------------------- #
 
 
